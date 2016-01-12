@@ -33,26 +33,19 @@ namespace RevStack.Redis
         public TEntity Add(TEntity entity)
         {
             entity = RedisUtils.SetEntityIdProperty(entity,_client);
-            attachEntity(entity,RedisOperation.Add); 
+            _typedClient.Store(entity);
             return entity;
         }
 
         public TEntity Update(TEntity entity)
         {
-            attachEntity(entity, RedisOperation.Update);
+            _typedClient.Store(entity);
             return entity;
         }
 
         public void Delete(TEntity entity)
         {
-            attachEntity(entity, RedisOperation.Delete);
-        }
-
-        private void attachEntity(TEntity entity,RedisOperation operation)
-        {
-            string key = RedisUtils.GetListKey(_type, operation);
-            var list = _typedClient.Lists[key];
-            list.Add(entity);
+            _typedClient.Delete(entity);
         }
 
     }

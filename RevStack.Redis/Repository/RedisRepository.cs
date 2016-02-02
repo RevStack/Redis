@@ -22,7 +22,8 @@ namespace RevStack.Redis
 
         public IEnumerable<TEntity> Get()
         {
-            return _typedClient.GetAll();
+            var result =_typedClient.GetAll();
+            return result;
         }
 
         public IQueryable<TEntity> Find(Expression<Func<TEntity, bool>> predicate)

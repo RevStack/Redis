@@ -1,6 +1,6 @@
 {
   "name": "RevStack.Redis",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "OrientDb implementation of the RevStack c# repository pattern",
   "main": "RevStack.Redis.sin",
   "scripts": {

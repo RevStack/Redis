@@ -33,7 +33,9 @@
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\ServiceStack.Text.dll
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\RevStack.Cryptography.dll
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\System.Web.Http.dll
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\MiscUtil.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\System.Net.Http.Formatting.dll
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\RevStack.Mvc.pdb
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\RevStack.Pattern.pdb
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\ServiceStack.Common.xml
@@ -43,8 +45,9 @@
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\RevStack.Cryptography.pdb
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\RevStack.Cryptography.xml
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\System.Web.Http.xml
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\MiscUtil.pdb
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\MiscUtil.xml
-\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\obj\Release\RevStack.Redis.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Release\System.Net.Http.Formatting.xml
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\obj\Release\RevStack.Redis.dll
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\obj\Release\RevStack.Redis.pdb

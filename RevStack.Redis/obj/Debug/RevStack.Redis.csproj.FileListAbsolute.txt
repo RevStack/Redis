@@ -48,3 +48,7 @@
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\obj\Debug\RevStack.Redis.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\obj\Debug\RevStack.Redis.dll
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\obj\Debug\RevStack.Redis.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Redis\RevStack.Redis\bin\Debug\System.Net.Http.Formatting.xml

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStack.Redis</id>
+    <version>1.0.1</version>
+    <title>RevStack.Redis</title>
+    <authors>Scott Francis, David Sheets</authors>
+    <owners>D. Sheets, S. Francis</owners>
+    <licenseUrl>https://github.com/RevStack/Redis/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStack/Redis.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Redis implementation of the RevStack c# repository pattern.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016 Managed Information Solutions, LLC (MIS)</copyright>
+    <tags>RevStack Redis Repository</tags>
+  </metadata>
+</package>
